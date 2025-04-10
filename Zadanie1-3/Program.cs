@@ -10,10 +10,11 @@ namespace Zadanie1_3
     {
         static void Main(string[] args)
         {//Napisać program wczytujący z klawiatury liczbę całkowitą i wypisujący na ekranie sześcian wczytanej liczby.
-            int liczba;
+            int liczba,sześcian;
             Console.WriteLine("Podaj liczbę całkowitą");
             liczba = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("liczba^3 = {0}", liczba*liczba*liczba);
+            sześcian = liczba * liczba * liczba;
+            Console.WriteLine("liczba^3 = {0}", sześcian);
             Console.ReadKey(true);
 
         }
