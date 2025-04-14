@@ -24,7 +24,7 @@ namespace Zadanie_dodatkowe
             Console.WriteLine("Jest {0} liczb dodatnich, {1} liczb ujemnych i {2} liczb równych zero.",dodatnie,ujemne,zero);
             Console.ReadKey(true);
 
-            }
+            
         }
     }
 }
