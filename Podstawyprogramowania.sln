@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kolokwium-3", "kolokwium-3\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chat2", "Chat2\Chat2.csproj", "{1B1E2E50-2F94-48CF-A36E-5E967FE894AF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test\test.csproj", "{1EE01440-B1B5-494B-96BB-339F5D979BC8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{1B1E2E50-2F94-48CF-A36E-5E967FE894AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B1E2E50-2F94-48CF-A36E-5E967FE894AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B1E2E50-2F94-48CF-A36E-5E967FE894AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EE01440-B1B5-494B-96BB-339F5D979BC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EE01440-B1B5-494B-96BB-339F5D979BC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EE01440-B1B5-494B-96BB-339F5D979BC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EE01440-B1B5-494B-96BB-339F5D979BC8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
